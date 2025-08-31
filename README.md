@@ -1,6 +1,9 @@
 # AOHW25_242
 An implementation of the Smith Waterman algorithm using multiple hardware accelerators
 
+Link to the youtube video: `https://youtu.be/mdAmF2yWk70?si=ioC9uYCZffKO_hrQ`
+
+
 ## Repository Layout
 - `source-files/` — design files.
   - `src/lsal.cpp` — hardware kernel (`compute_matrices`) implementation of the Smith–Waterman algorithm.

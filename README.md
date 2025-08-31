@@ -1,7 +1,7 @@
 # AOHW25_242
 An implementation of the Smith Waterman algorithm using multiple hardware accelerators
 
-Link to the youtube video: `https://youtu.be/mdAmF2yWk70?si=ioC9uYCZffKO_hrQ`
+Link to the youtube video: https://youtu.be/mdAmF2yWk70?si=ioC9uYCZffKO_hrQ
 
 
 ## Repository Layout

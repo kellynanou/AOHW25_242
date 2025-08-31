@@ -50,6 +50,8 @@ make build TARGET=hw DEVICE=xilinx_u250_gen3x16_xdma_4_1_202210_1 HOST_ARCH=x86 
 
 This will generate the required binaries for hardware execution. The final binary `lsal.xclbin` will be in `build_dir.hw.xilinx_u250_gen3x16_xdma_4_1_202210_1/` or a similarly named folder.
 
+If you wish to build for another kernel size combination make sure to change the Tile_N and/or Tile_M both in `lsal.cpp` and in `lsal_host.cpp`.
+
 ### Design.cfg
 
 This file contains the design configuration for the hardware implementation.
